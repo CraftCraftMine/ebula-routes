@@ -1,0 +1,295 @@
+{
+  "id": "1771788243561",
+  "version": 5,
+  "name": "Der Test",
+  "desc": "Die offizielle Test Strecke die von den Entwicklern genutz wird und wahrscheinlich die älteste Strecke des CCMN™ WEBuLa ist. Sie bassiert auf ungefähren Daten der Strecke Bielefeld Münster ü. Warendorf.",
+  "author": "CCMN™ Official",
+  "startKm": 0,
+  "endKm": 79.8,
+  "zugTyp": "RB",
+  "streckenNr": "67",
+  "spurweite": 1435,
+  "objects": [
+    {
+      "id": "1771788332377",
+      "km": 0,
+      "type": "STATION",
+      "name": "Bielefeld Hbf",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "Gleis 1"
+    },
+    {
+      "id": "1771788364150",
+      "km": 0.2,
+      "type": "SPEED",
+      "name": "",
+      "speed": 120,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788411823",
+      "km": 6.2,
+      "type": "STATION",
+      "name": "Brackwede",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788450008",
+      "km": 13.5,
+      "type": "STATION",
+      "name": "Isselhorst-Avenwedde ",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788473274",
+      "km": 20.8,
+      "type": "STATION",
+      "name": "Gütersloh Hbf",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788713953",
+      "km": 20.8,
+      "type": "SPEED",
+      "name": "Gütersloh ",
+      "speed": 100,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "Gütersloh "
+    },
+    {
+      "id": "1771788496415",
+      "km": 27.4,
+      "type": "STATION",
+      "name": "Rheda-Wiedenbrück",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788513787",
+      "km": 32.1,
+      "type": "STATION",
+      "name": "Herzebrock",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788531979",
+      "km": 36.8,
+      "type": "STATION",
+      "name": "Clarholz",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788553267",
+      "km": 43.2,
+      "type": "STATION",
+      "name": "Beelen",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788748764",
+      "km": 43.2,
+      "type": "SPEED",
+      "name": "Beelen",
+      "speed": 80,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788579376",
+      "km": 53.6,
+      "type": "STATION",
+      "name": "Warendorf",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788793447",
+      "km": 53.6,
+      "type": "SPEED",
+      "name": "Warendorf ",
+      "speed": 60,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788601460",
+      "km": 59.1,
+      "type": "STATION",
+      "name": "Warendorf-Einen-Müssingen",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788628989",
+      "km": 67.4,
+      "type": "STATION",
+      "name": "Telgte",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788827135",
+      "km": 67.41,
+      "type": "SPEED",
+      "name": "Telgte",
+      "speed": 80,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771788649848",
+      "km": 79.8,
+      "type": "STATION",
+      "name": "Münster Hbf",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    }
+  ],
+  "timetables": [
+    {
+      "id": "1771789226524",
+      "name": "Fahrplan 20:40:26",
+      "zugNummer": "9999",
+      "zugTyp": "RB67",
+      "mode": "TIME",
+      "departure": "10:00:00",
+      "avgSpeed": 100,
+      "stops": [
+        {
+          "sid": "1771788332377",
+          "km": 0,
+          "name": "Bielefeld Hbf",
+          "served": true,
+          "arr": "",
+          "dep": "10:05:00"
+        },
+        {
+          "sid": "1771788411823",
+          "km": 6.2,
+          "name": "Brackwede",
+          "served": true,
+          "arr": "10:10:00",
+          "dep": "10:10:50"
+        },
+        {
+          "sid": "1771788450008",
+          "km": 13.5,
+          "name": "Isselhorst-Avenwedde ",
+          "served": true,
+          "arr": "10:15:00",
+          "dep": "10:16:00"
+        },
+        {
+          "sid": "1771788473274",
+          "km": 20.8,
+          "name": "Gütersloh Hbf",
+          "served": true,
+          "arr": "10:28:00",
+          "dep": "10:29:10"
+        },
+        {
+          "sid": "1771788496415",
+          "km": 27.4,
+          "name": "Rheda-Wiedenbrück",
+          "served": true,
+          "arr": "10:40:00",
+          "dep": "10:40:16"
+        },
+        {
+          "sid": "1771788513787",
+          "km": 32.1,
+          "name": "Herzebrock",
+          "served": false,
+          "arr": "",
+          "dep": ""
+        },
+        {
+          "sid": "1771788531979",
+          "km": 36.8,
+          "name": "Clarholz",
+          "served": true,
+          "arr": "11:00:00",
+          "dep": "11:01:00"
+        },
+        {
+          "sid": "1771788553267",
+          "km": 43.2,
+          "name": "Beelen",
+          "served": true,
+          "arr": "11:11:00",
+          "dep": "11:13:50"
+        },
+        {
+          "sid": "1771788579376",
+          "km": 53.6,
+          "name": "Warendorf",
+          "served": true,
+          "arr": "11:25:00",
+          "dep": "11:28:00"
+        },
+        {
+          "sid": "1771788601460",
+          "km": 59.1,
+          "name": "Warendorf-Einen-Müssingen",
+          "served": false,
+          "arr": "",
+          "dep": ""
+        },
+        {
+          "sid": "1771788628989",
+          "km": 67.4,
+          "name": "Telgte",
+          "served": true,
+          "arr": "11:38:00",
+          "dep": "11:38:59"
+        },
+        {
+          "sid": "1771788649848",
+          "km": 79.8,
+          "name": "Münster Hbf",
+          "served": true,
+          "arr": "12:00:00",
+          "dep": ""
+        }
+      ],
+      "createdAt": "2026-02-22T19:40:26.545Z"
+    }
+  ],
+  "createdAt": "2026-02-22T19:24:03.561Z"
+}
