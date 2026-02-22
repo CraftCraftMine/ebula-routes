@@ -1,0 +1,5 @@
+{
+  "routes": [
+    {"name": "Tutorial: Nordstadt – Südhafen", "file": "nordstadt.json", "desc": "Demo-Strecke"}
+  ]
+}
