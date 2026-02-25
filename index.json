@@ -1,6 +1,5 @@
 {
   "routes": [
     {"name": "Tutorial: Nordstadt – Südhafen", "file": "nordstadt.json", "desc": "Demo-Strecke"}
-    {"name": "Der-Test", "file": "Der-Test.json", "desc": "Die offizielle Test Strecke die von den Entwicklern genutz wird und wahrscheinlich die älteste Strecke des CCMN™ WEBuLa ist. Sie bassiert auf ungefähren Daten der Strecke Bielefeld Münster ü. Warendorf."}
   ]
 }
