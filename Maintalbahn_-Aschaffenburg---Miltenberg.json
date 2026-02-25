@@ -1,0 +1,629 @@
+{
+  "_ccmn": {
+    "project": "CCMC™ Web EBuLa",
+    "partOf": "CraftCraftMine Netzwerk™",
+    "copyright": "(c) 2026 CraftCraftMine Netzwerk™ – All rights reserved.",
+    "disclaimer": "Privates Hobby-Projekt. Nicht für kommerzielle Zwecke bestimmt.",
+    "support": "support@craftcraftmine.net",
+    "info": "https://craftcraftmine.net/ueberuns"
+  },
+  "id": "1771948999833",
+  "version": 5,
+  "name": "Maintalbahn: Aschaffenburg - Miltenberg",
+  "desc": "Strecke zu der TSW Version.",
+  "author": "CCMN™ Official",
+  "startKm": 0,
+  "endKm": 37,
+  "zugTyp": "BR 642 DMU | BR 363",
+  "streckenNr": "DB 5220 | DB 5222 | DB 9520",
+  "spurweite": 1435,
+  "objects": [
+    {
+      "id": "1771865303878",
+      "km": -0.0001,
+      "type": "SPEED",
+      "name": "",
+      "speed": 40,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864616085",
+      "km": 0,
+      "type": "STATION",
+      "name": "Aschaffenburg Hbf",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771865503142",
+      "km": 0.8,
+      "type": "SPEED",
+      "name": "",
+      "speed": 90,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864634975",
+      "km": 1.6,
+      "type": "STATION",
+      "name": "Aschaffenburg Hochschule ",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "Bedarfshalt",
+      "gleise": []
+    },
+    {
+      "id": "1771865741730",
+      "km": 2.2,
+      "type": "SPEED",
+      "name": "",
+      "speed": 60,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864656393",
+      "km": 2.3,
+      "type": "STATION",
+      "name": "Aschaffenburg Süd",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771865829565",
+      "km": 3,
+      "type": "SPEED",
+      "name": "",
+      "speed": 80,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771866022572",
+      "km": 3.4,
+      "type": "SPEED",
+      "name": "",
+      "speed": 80,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771866086475",
+      "km": 5,
+      "type": "SPEED",
+      "name": "",
+      "speed": 100,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771866133625",
+      "km": 5.6,
+      "type": "SPEED",
+      "name": "",
+      "speed": 120,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864670731",
+      "km": 7.2,
+      "type": "STATION",
+      "name": "Obernau",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771866433340",
+      "km": 9.2,
+      "type": "STATION",
+      "name": "Sulzbach",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771866804152",
+      "km": 14.2,
+      "type": "SPEED",
+      "name": "",
+      "speed": 60,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864724465",
+      "km": 14.25,
+      "type": "STATION",
+      "name": "Kleinwallstadt",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771945730825",
+      "km": 14.85,
+      "type": "SPEED",
+      "name": "",
+      "speed": 100,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771945742570",
+      "km": 14.85,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771945812482",
+      "km": 15.1,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771945827027",
+      "km": 15.3,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771945878049",
+      "km": 15.3,
+      "type": "SPEED",
+      "name": "",
+      "speed": 120,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771946033588",
+      "km": 18.2,
+      "type": "SPEED",
+      "name": "",
+      "speed": 60,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864739219",
+      "km": 18.3,
+      "type": "STATION",
+      "name": "Obernburg-Elsenfeld",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771946262463",
+      "km": 18.4,
+      "type": "SPEED",
+      "name": "",
+      "speed": 120,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864756613",
+      "km": 18.6,
+      "type": "STATION",
+      "name": "Glanzstoffwerke",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771946333431",
+      "km": 18.65,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771946631036",
+      "km": 23.9,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864775112",
+      "km": 24.4,
+      "type": "STATION",
+      "name": "Erlenbach",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771946819051",
+      "km": 24.6,
+      "type": "SPEED",
+      "name": "",
+      "speed": 90,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771946936584",
+      "km": 25.35,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864811691",
+      "km": 25.8,
+      "type": "STATION",
+      "name": "Wörth [Main]",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771947219208",
+      "km": 25.81,
+      "type": "SPEED",
+      "name": "",
+      "speed": 120,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771947084089",
+      "km": 26,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771947195726",
+      "km": 26.1,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771947262461",
+      "km": 26.6,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864794409",
+      "km": 26.8,
+      "type": "STATION",
+      "name": "Klingenberg",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771947941926",
+      "km": 27.1,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948114395",
+      "km": 30.3,
+      "type": "STATION",
+      "name": "Laudenbach",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771948388132",
+      "km": 33.35,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948373258",
+      "km": 34,
+      "type": "STATION",
+      "name": "Kleinheubach",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    },
+    {
+      "id": "1771948516860",
+      "km": 34.1,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948661317",
+      "km": 35.5,
+      "type": "SPEED",
+      "name": "",
+      "speed": 60,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948676672",
+      "km": 35.53,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948774203",
+      "km": 36.6,
+      "type": "BUE",
+      "name": "",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771948786284",
+      "km": 36.65,
+      "type": "SPEED",
+      "name": "",
+      "speed": 80,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": ""
+    },
+    {
+      "id": "1771864826621",
+      "km": 37,
+      "type": "STATION",
+      "name": "Miltenberg",
+      "speed": null,
+      "speedEnd": null,
+      "gradient": null,
+      "notes": "",
+      "gleise": []
+    }
+  ],
+  "timetables": [
+    {
+      "id": "1772037339370",
+      "name": "23303",
+      "zugNummer": "RB 88 (23303)",
+      "zugTyp": "RB",
+      "mode": "TIME",
+      "departure": "06:39:00",
+      "avgSpeed": 100,
+      "richtung": 1,
+      "direction": "hin",
+      "stops": [
+        {
+          "sid": "1771864616085",
+          "km": 0,
+          "name": "Aschaffenburg Hbf",
+          "served": true,
+          "arr": "",
+          "dep": "06:41:00",
+          "gleis": null
+        },
+        {
+          "sid": "1771864634975",
+          "km": 1.6,
+          "name": "Aschaffenburg Hochschule ",
+          "served": true,
+          "arr": "06:43:30",
+          "dep": "06:44:00",
+          "gleis": null
+        },
+        {
+          "sid": "1771864656393",
+          "km": 2.3,
+          "name": "Aschaffenburg Süd",
+          "served": true,
+          "arr": "06:45:00",
+          "dep": "06:46:00",
+          "gleis": null
+        },
+        {
+          "sid": "1771864670731",
+          "km": 7.2,
+          "name": "Obernau",
+          "served": true,
+          "arr": "06:50:00",
+          "dep": "06:50:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864684036",
+          "km": 9.1,
+          "name": "Kleinostheim",
+          "served": false,
+          "arr": "06:53:00",
+          "dep": "06:53:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771866433340",
+          "km": 9.2,
+          "name": "Sulzbach",
+          "served": true,
+          "arr": "06:53:00",
+          "dep": "06:53:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864724465",
+          "km": 14.25,
+          "name": "Kleinwallstadt",
+          "served": true,
+          "arr": "07:01:00",
+          "dep": "07:01:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864739219",
+          "km": 18.3,
+          "name": "Obernburg-Elsenfeld",
+          "served": true,
+          "arr": "07:06:00",
+          "dep": "07:07:00",
+          "gleis": null
+        },
+        {
+          "sid": "1771864756613",
+          "km": 18.6,
+          "name": "Glanzstoffwerke",
+          "served": true,
+          "arr": "07:10:00",
+          "dep": "07:10:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864775112",
+          "km": 24.4,
+          "name": "Erlenbach",
+          "served": true,
+          "arr": "07:13:00",
+          "dep": "07:13:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864811691",
+          "km": 25.8,
+          "name": "Wörth [Main]",
+          "served": true,
+          "arr": "07:15:00",
+          "dep": "07:15:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771864794409",
+          "km": 26.8,
+          "name": "Klingenberg",
+          "served": true,
+          "arr": "07:23:00",
+          "dep": "07:23:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771948114395",
+          "km": 30.3,
+          "name": "Laudenbach",
+          "served": true,
+          "arr": "07:27:00",
+          "dep": "07:27:30",
+          "gleis": null
+        },
+        {
+          "sid": "1771948373258",
+          "km": 34,
+          "name": "Kleinheubach",
+          "served": true,
+          "arr": "07:30:00",
+          "dep": "07:31:00",
+          "gleis": null
+        },
+        {
+          "sid": "1771864826621",
+          "km": 37,
+          "name": "Miltenberg",
+          "served": true,
+          "arr": "07:34:00",
+          "dep": "",
+          "gleis": null
+        }
+      ],
+      "createdAt": "2026-02-25T16:35:39.370Z"
+    }
+  ],
+  "createdAt": "2026-02-23T16:36:27.169Z",
+  "objects_rueck": null
+}
